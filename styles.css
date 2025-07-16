@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    color: #333;
+    padding: 20px;
+    position: absolute;
+}
+
+.header {
+    text-align: center;
+    display: block;
+}
+
+img {
+    width: 125px;
+    display: block;
+    height: auto;
+    margin-left: 5px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 30px gray;
+    border-radius: 175%;
+    float: left;
+}
+
+.apropos-page {
+    display: block;
+    padding-top: 65px;
+    
+}
+
+.apropos-page h2 {
+    text-align: left;
+    padding-top: 12px;
+}
+
+section {
+    max-width: 800px;
+    margin-top: 125px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1,
+h2 {
+    color: #005b96;
+    
+}
